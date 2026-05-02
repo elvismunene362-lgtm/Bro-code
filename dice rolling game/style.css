@@ -1,0 +1,34 @@
+#container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+button{
+    font-size: 1.15em;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(39, 97, 189);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(7, 109, 226);
+}
+button:active{
+    background-color: rgb(6, 51, 196);
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#diceResult{
+    margin: 15px;
+}
+#diceimages{
+    margin: 5px;
+}
